@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="75586" started-at="2018-05-02T06:17:01Z" finished-at="2018-05-02T06:18:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="75586" started-at="2018-05-02T06:17:01Z" finished-at="2018-05-02T06:18:16Z">
+      <class name="com.puma.tests.MenShoesTest">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.puma.tests.MenShoesTest@27efef64]" name="preCondition" is-config="true" duration-ms="20462" started-at="2018-05-02T06:17:01Z" finished-at="2018-05-02T06:17:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testMenShoerunning()[pri:0, instance:com.puma.tests.MenShoesTest@27efef64]" name="testMenShoerunning" duration-ms="53393" started-at="2018-05-02T06:17:21Z" finished-at="2018-05-02T06:18:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMenShoerunning -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.puma.tests.MenShoesTest@27efef64]" name="postCondition" is-config="true" duration-ms="1707" started-at="2018-05-02T06:18:15Z" finished-at="2018-05-02T06:18:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.puma.tests.MenShoesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
